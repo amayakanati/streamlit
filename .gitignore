@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+result_app_image/
+streamlit_app.py
