@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 result_app_image/
 streamlit_app.py
+__pycache__/
+*.pyc
