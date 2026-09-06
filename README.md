@@ -16,6 +16,11 @@ streamlit/
       app.py
       requirements.txt
       README.md
+    rag_chatbot/           # ニュース記事RAGチャットボット
+      app.py
+      requirements.txt
+      README.md
+      yahoo_news_articles_preprocessed.csv
   dataset/                 # 全アプリ共通のデータセット
   README.md
 ```
